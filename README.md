@@ -11,7 +11,7 @@ This is my personal study log and knowledge base as I improve my programming ski
 
 ## 🗂 Wiki Pages
 
-Visit the [Wiki]([[../../wiki](https://github.com/RuhDel/Learning_Journal.wiki.git)](https://github.com/RuhDel/Learning_Journal/wiki)) for structured content and topic-based navigation.
+Visit the [Wiki](https://github.com/RuhDel/Learning_Journal/wiki) for structured content and topic-based navigation.
 
 ## 🎯 Goals
 
